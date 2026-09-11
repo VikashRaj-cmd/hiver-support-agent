@@ -1,9 +1,9 @@
 {
   "intent_accuracy": 1.0,
   "escalation_accuracy": 0.9,
-  "avg_judge_score": 4.24,
+  "avg_judge_score": 4.275,
   "baseline_trivial": 0.125,
   "baseline_keyword": 1.0,
-  "judge_human_correlation": null,
+  "judge_human_correlation": 0.4763,
   "n_evaluated": 200
 }
