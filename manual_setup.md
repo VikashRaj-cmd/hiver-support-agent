@@ -19,7 +19,7 @@ Code is handled automatically — this is only the human work.
 4. Connect your local folder to it:
    ```
    git init
-   git remote add origin https://github.com/YOUR_USERNAME/hiver-support-agent.git
+   git remote add origin https://github.com/VikashRaj-cmd/hiver-support-agent.git
    ```
 
 ---

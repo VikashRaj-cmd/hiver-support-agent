@@ -4,7 +4,6 @@ save the model and print per-intent counts on the processed data.
 """
 
 import os
-import re
 import pickle
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
